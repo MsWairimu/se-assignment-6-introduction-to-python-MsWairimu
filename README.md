@@ -28,7 +28,7 @@ Answer the following questions based on your understanding of Python programming
 7. Lists and Dictionaries:
    - Describe the differences between lists and dictionaries in Python. Write a script that creates a list of numbers and a dictionary with some key-value pairs, then demonstrates basic operations on both.
 
-8. Exception Handling:
+8. Exception Handling: 
    - What is exception handling in Python? Provide an example of how to use `try`, `except`, and `finally` blocks to handle errors in a Python script.
 
 9. Modules and Packages:
