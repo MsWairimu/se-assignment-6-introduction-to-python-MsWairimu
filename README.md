@@ -33,7 +33,7 @@ Use Cases:
    - Click "Install Now" and follow the prompts.
 
 **Verify Installation:**
-- Open a terminal/command prompt and type `python --version` (or `python3 --version` for Linux/macOS).
+- Open a terminal/command prompt and type `python --version`
 - To set up a virtual environment:
   ```bash
   python -m venv myenv
